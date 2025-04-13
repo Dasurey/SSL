@@ -1,2 +1,2 @@
 # SSL
-Tp0 de SySL
+Tp0 de  Sintaxis y Semántica de los Lenguajes
